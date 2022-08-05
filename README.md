@@ -1,0 +1,2 @@
+# pySkypeDaemon
+Skype Robot Watcher
